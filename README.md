@@ -18,3 +18,13 @@ commands to stop elasticsearch and kibana
 ```
 docker-compose down
 ```
+
+elasticsearch URL
+```
+http://localhost:9200/
+```
+
+kibana URL
+```
+http://localhost:5601/
+```
